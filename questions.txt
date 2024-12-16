@@ -1,0 +1,5 @@
+What is the time complexity of accessing an element in an array?;O(1);O(n);O(log n);O(n^2);1
+Which data structure uses FIFO (First In First Out) principle?;Stack;Queue;Linked List;Tree;2
+Which data structure is used for implementing recursion?;Queue;Stack;Array;Graph;2
+What is the best case time complexity for searching in a binary search tree?;O(log n);O(n);O(n^2);O(1);1
+Which data structure is best suited for implementing undo operations?;Queue;Stack;Array;Heap;2
